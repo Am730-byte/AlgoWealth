@@ -3,6 +3,8 @@
 ## THE LINK TO WEBSITE 
 
 https://ck2-0-edoumrexl-akr4pc-gmailcoms-projects.vercel.app
+   ## GitHub
+https://github.com/AKR4PC/Ck2.0
 
 ## Overview
 AlgoWealth is a **decentralized finance (DeFi)** platform that combines **Artificial Intelligence (AI)** and **Reactive Smart Contracts** to offer personalized investment solutions. Our goal is to make DeFi simple, secure, and profitable for everyone, even if you're new to blockchain and finance.
