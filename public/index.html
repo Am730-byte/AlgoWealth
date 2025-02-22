@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Crypto Portfolio - AI Risk & Recommendation</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Crypto Portfolio - AI Risk & Recommendation</h1>
+      <div id="status" class="status">Connecting to WebSocket...</div>
+
+      <div class="recommendation">
+        <h2>Current Recommendation</h2>
+        <div id="recommendation-details">Loading...</div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Price</th>
+            <th>Risk Score</th>
+          </tr>
+        </thead>
+        <tbody id="ticker-body"></tbody>
+      </table>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

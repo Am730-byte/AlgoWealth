@@ -1,0 +1,12 @@
+{
+  "name": "crypto-portfolio-recommendation",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "rxjs": "^7.8.1",
+    "ws": "^8.13.0"
+  }
+}
